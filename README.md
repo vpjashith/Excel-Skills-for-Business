@@ -17,3 +17,4 @@ datasets, present data and extract information effectively. In addition, learner
 prevent errors in spreadsheets, create automation, apply advanced formulas and conditional logic to help make decisions and create
 spreadsheets that help forecast and model data.  
 </p>
+<img src = "./Course 1 - Excel Skills for Business Essentials/Certificate.png">
